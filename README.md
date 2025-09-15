@@ -4,7 +4,7 @@
 # PicoRV32-SoC with DDR Simulation
 
 This repository contains a custom System-on-Chip (SoC) design based on the open-source [PicoRV32 RISC-V CPU](https://github.com/cliffordwolf/picorv32).  
-The project integrates a lightweight CPU core with a DDR memory model, memory controller, FIFO buffers, and an adapter — all built and verified in SystemVerilog using Xilinx Vivado.
+The project integrates a lightweight CPU core with a DDR memory model, memory controller, FIFO buffers, and an adapter all built and verified in SystemVerilog using Xilinx Vivado.
 
 ## Features
 
@@ -46,9 +46,9 @@ The project integrates a lightweight CPU core with a DDR memory model, memory co
 
 ##  Future Work
 
-- Add AXI/AHB interface for advanced memory systems  
-- Extend instruction/program test cases  
-- FPGA implementation for on-board testing  
+* Add AXI/AHB interface for advanced memory systems  
+* Extend instruction/program test cases  
+* FPGA implementation for on-board testing  
 
 
 ##  Author
